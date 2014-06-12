@@ -2,7 +2,7 @@
 
 Code for talk at http://www.meetup.com/clj-melb/
 
-See the [ppt]() file for talk
+See the [ppt](https://github.com/zcaudate/mimicking-abstract-classes/blob/master/mimicking%20abstract%20classes.pptx) file for talk
 
  - The abstract pattern for server is implemented in `src/server` and used in `test/server/example`
 
